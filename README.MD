@@ -1,11 +1,9 @@
 # Day Planner 9am-5pm
 
 
-
 ## Authors
 
 - [@Ceebcheng Yang](https://ceebcheng.github.io/Day-Planner/)
-
 
 ## Info
 
@@ -21,9 +19,15 @@ Color coding:
     Green = Future Time
     Gray = Past Time
 
+HINT! IMPORTANT! If you view the application after 5 pm (for Example 6pm) all your color will be gray.
+
+Try changing your time between 9am and 5pm and see what happens :) Have Fun with this easy day planner!
+
+Here is 2 screenshots of the exmaples.
 
 
 ## Screenshots
 
 ![App Screenshot](https://github.com/Ceebcheng/Day-Planner/blob/main/Assets/Capture.JPG)
 
+![App Screenshot](https://github.com/Ceebcheng/Day-Planner/blob/main/Assets/Capture2.JPG)
